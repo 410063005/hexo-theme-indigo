@@ -19,14 +19,11 @@ menu:
     text: Categories
     url: /categories
   github:
-    url: https://github.com/yscoder
+    url: https://github.com/410063005
     target: _blank
-  weibo:
-    url: http://www.weibo.com/ysweb
-    target: _blank
-  link:
-    text: 测试
-    url: /custom
+#  link:
+#    text: 测试
+#    url: /custom
 
 rss: /atom.xml
 
@@ -36,7 +33,7 @@ avatar: /img/avatar.jpg
 favicon: /favicon.ico
 
 # email
-email: 634206017@qq.com
+email: 410063005@163.com
 
 # 设置 Android L Chrome 浏览器状态栏颜色
 color: '#3F51B5'
@@ -63,7 +60,7 @@ share: true
 reward:
   title: 谢谢大爷~
   wechat: /img/wechat.jpg     #微信，关闭设为 false
-  alipay: /img/alipay.jpg     #支付宝，关闭设为 false
+  alipay: false     #支付宝，关闭设为 false
 
 # 是否开启搜索
 search: true
@@ -99,7 +96,7 @@ less:
     - source/css/style.less
 
 # 是否开启多说评论，填写你在多说创建的站点二级域名
-duoshuo: ysblog
+duoshuo: sunmoonblog2
 # 是否开启多说评论计数（该服务不稳定）
 duoshuo_count: false
 # 使用 disqus 时关闭多说评论
